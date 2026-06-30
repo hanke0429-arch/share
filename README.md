@@ -1,20 +1,15 @@
-# Project Name
+# SEO Resource Directory
 
 ## 📌 Overview
-This is an open-source project designed to help users with XXX (e.g., SEO, directory listing, tools).
+A curated collection of high-quality SEO submission sites and backlink resources for improving website visibility and search rankings.
 
 ## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Free backlink platforms
+- Industry directories
+- Regularly updated resources
 
-## 📂 Usage
-1. Clone the repository
-2. Run or open the project
-3. Follow instructions
-
-## 🔗 Purpose
-Helps users improve XXX and achieve XXX efficiently.
+## 🎯 Use Case
+Ideal for SEO professionals, marketers, and website owners who want to build high-quality external links.
 
 ## 📄 License
 MIT License
